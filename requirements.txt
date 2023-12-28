@@ -1,0 +1,2 @@
+selenium==2.50.1
+messagebox==0.1.0
