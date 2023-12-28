@@ -36,6 +36,17 @@ Chromedriver: https://googlechromelabs.github.io/chrome-for-testing/
 python run.py
 ```
 
+## Run2
+
+1. Activate the virtual environment (venv là tên môi trường mẫu nếu bạn trước đó cài môi trường như bước setup thì copy làm theo còn không thì phải thay venv về tên môi trường trước đó bạn đã setup):
+> source venv/bin/activate (Linux)
+> 
+> venv\Scripts\activate (Windows)
+
+5. run
+
+> python run.py
+
 ### 
 
 - Nhập mail
