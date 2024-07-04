@@ -15,20 +15,27 @@ Chromedriver: https://googlechromelabs.github.io/chrome-for-testing/
 ## Setup
 
 ```
-1. Clone the repository:
+I. Clone the repository:
 > git clone https://github.com/hoangmanhkhiem/automatically-evaluate-teachers.git
 
-2. Change into the project directory:
+Chọn 1 trong 2 phương án
+2a. Phương án 1: Chạy file Exe
+
+Sau đó không cần quan tâm các dòng bên dưới
+
+2b. Phương án 2: Setup nếu exe lỗi
+
+1. Change into the project directory:
 > cd automatically-evaluate-teachers
 
-3. Create a virtual environment:
+2. Create a virtual environment:
 > py -m venv venv
 
-4. Activate the virtual environment:
+3. Activate the virtual environment:
 > source venv/bin/activate (Linux)
 > venv\Scripts\activate (Windows)
 
-5. Install dependencies:
+4. Install dependencies:
 > pip install -r requirements.txt
 ```
 ## Run
